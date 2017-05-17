@@ -16,7 +16,7 @@
 ## Процессинг заказов
 
 * Печать всех необзодимых форм для отправки посылок Укр Поштой (форма 116)
-* генерация и печать документации для отправки заказов перевозчиком Новая Почта
+* генерация и печать документации для отправки заказов перевозчиком Новая Почта [^screen10001]
 
 Yii2 based engine for all-round e-commerce suite: sales, orders processing, affiliate program.
 
@@ -28,5 +28,9 @@ Affiliate program
 
 
 # Пригласи Друга
+
+[^1]: Footnote definitions
+
+[^screen10001]: ![screen10001](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 
