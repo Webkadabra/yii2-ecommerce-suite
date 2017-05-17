@@ -29,7 +29,6 @@ Affiliate program
 
 # Пригласи Друга
 
-[^screen10001]:
-        this is now a code block (8 spaces indentation)
+[^screen10001]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/order-fulfill-novaposhta.png)
 
 
