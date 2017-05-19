@@ -48,6 +48,9 @@
 
 ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/abandoned-carts.jpg)
 
+<center> <h1>Купить код</h1> </center>
+                          
+<hello@webkadabra.com>
 ---
 
 ## Галерея скриншотов
