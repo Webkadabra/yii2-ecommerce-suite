@@ -55,7 +55,7 @@
 
 <center> <h1>Купить код</h1> </center>
                           
-<hello@webkadabra.com>
+<sergii@alphatech.com.ua>
 ---
 
 ## Галерея скриншотов
