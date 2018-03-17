@@ -40,6 +40,8 @@
 Живой пример: <http://alphatech.com.ua/refer-friends/>
 
 ### Партнёрская программа
+
+Полноценный движок партнёрской программы, подробнее: <https://github.com/Webkadabra/yii2-affiliate-program-engine>
 Живой пример: <http://partners.alphatech.com.ua/>
 
 ### Брошенные корзины
