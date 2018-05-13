@@ -12,14 +12,15 @@
 * удобный интерфейс для обработки заказов
 * мультиязычность (по-уомлчанию для фронтенда перевод происходит на стороне клиента; из коробки поддержка английского, русского и украинского языков)
 * Полноценная [Партнёрская программа](#Партнёрская-программа)
-* Модуль отзывов о товарах
+* Модуль отзывов о товарах [^screen10005] [^screen10006] 
 * модуль онлайн оплаты: Интеркасса, Onpay (возможна поддержка любых платёжных шлюзов) 
 * гибкая настройка способов и методов доставки и выполнения заказа
-* удобное оформление заказа
+* удобное оформление заказа [^screen10002] 
+* очень гибкие системы акций, скидок и апсейлов [^screen10003] [^screen10004]
 
 ## Процессинг заказов
 
-* Печать всех необзодимых форм для отправки посылок Укр Поштой (форма 116)
+* Печать всех необходимых форм для отправки посылок Укр Поштой (форма 116)
 * генерация и печать документации для отправки заказов перевозчиком Новая Почта[^screen10001]
 
 ## Маркетинг
@@ -52,9 +53,9 @@
 
 ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/abandoned-carts.jpg)
 
-# Технические особенности
+# Технические требования
 
-Тредования для сервера: стандартный LAMP.
+Система работает на стандартном LAMP/WAMP сервере.
 
 <center> <h1>Купить код</h1> </center>
                           
@@ -64,7 +65,11 @@
 ## Галерея скриншотов
 
 [^screen10001]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/order-fulfill-novaposhta.png)
-
+[^screen10002]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/checkout-shipping.jpg)
+[^screen10003]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/cart-suammry.jpg)
+[^screen10004]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/cart-upsale.jpg)
+[^screen10005]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/reviews-list.jpg)
+[^screen10006]: ![](https://webkadabra.github.io/yii2-ecommerce-suite/screens/reviews-post.jpg)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
