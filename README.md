@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Движок для интернет-магазина
+permalink: /
 ---
 
 # [yii2-ecommerce-suite](https://webkadabra.github.io/yii2-ecommerce-suite)
