@@ -1,4 +1,4 @@
-# yii2-ecommerce-suite
+# [yii2-ecommerce-suite](https://webkadabra.github.io/yii2-ecommerce-suite)
 
 [CLICK HERE FOR ENGLISH VERSION](https://webkadabra.github.io/yii2-ecommerce-suite/README_En)
 
