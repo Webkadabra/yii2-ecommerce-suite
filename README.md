@@ -1,3 +1,8 @@
+---
+layout: default
+title: Движок для интернет-магазина
+---
+
 # [yii2-ecommerce-suite](https://webkadabra.github.io/yii2-ecommerce-suite)
 
 [CLICK HERE FOR ENGLISH VERSION](https://webkadabra.github.io/yii2-ecommerce-suite/README_En)
