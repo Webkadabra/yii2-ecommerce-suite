@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Движок для интернет-магазина
+title: Движок для интернет-магазина на PHP и Yii2
 permalink: /
 ---
 
