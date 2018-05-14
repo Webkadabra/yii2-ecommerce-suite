@@ -1,7 +1,9 @@
 # yii2-ecommerce-suite
 
-> (ру) PHP/MySql движок интернет-магазина на Yii 2: имея в наличии наш код, PHP/Yii разработчики могут создавать интернет-магазины "под ключ" в течение очень короткого времени.
-> (en) Yii2 based engine for all-round e-commerce suite: sales, orders processing, affiliate program.
+[CLICK HERE FOR ENGLISH VERSION](https://github.com/Webkadabra/yii2-ecommerce-suite/README_En)
+
+> PHP/MySql движок интернет-магазина на Yii 2: имея в наличии наш код, PHP/Yii разработчики могут создавать интернет-магазины "под ключ" в течение очень короткого времени.
+
 
 Рабочий пример: <http://alphatech.com.ua>
 
