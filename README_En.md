@@ -22,12 +22,12 @@ Live example: <http://alphatech.com.ua>
 * SMS notifications for clients (tracking, payment info) 
 
 ## Marketing & Sales
-* проект заточен под современные маркетинговые/ремаркетинговые коммуникации: начиная от "лайков" на страницах товаров, заканчивая функцией "поделиться моим заказом", который позволяет покупателям, после оформления заказа, поделиться им со своими друзьями. В связке с модулем "пригласи друга" и партнёрской программой, этот функционал поможет нарастить аудиторию вашего проекта
 * [Refer a Friend](#Refer-a-Friend)
-* гибкая система промо-акций (бесплатная доставка при покупке определенных товаров; скидки в зависимости от суммы заказа; скидочные купоны и пр.)
-* поддержка динамических акций: начисление скидки пользователям, посетившим определённую страницу, или любые другие условия (реферал, наличие cookie и п.р.)
+* Rich and customizable discounts (free shipping on certain items; free shipping for orders over XXX; public & private coupons etc.)
+* Custom promotions/discount supported (user-id based; cookie-based; referral-based; discount for visitors of certain page etc.)
 * [Abandoned Carts](#Abandoned-Carts) module
 * "Black Friday" sale module. Live example: <http://alphatech.com.ua/blackfriday/> (when event has passed there is a fallback page with email collecting form)
+* Like, comment & share orders with Facebook friends
 
 ### Refer a Friend
 
