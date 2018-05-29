@@ -71,7 +71,7 @@ permalink: /
 
 <center> <h1>Купить код</h1> </center>
                           
-<sergii@alphatech.com.ua>
+<devkadabra@gmail.com>
 ---
 
 ## Галерея скриншотов
