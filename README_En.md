@@ -53,7 +53,7 @@ Works on standard LAMP/WAMP environments.
 
 <center> <h1>Get it!</h1> </center>
                           
-Contact me for a code & demo: <sergii@alphatech.com.ua>
+Contact me for a code & demo: <devkadabra@gmail.com>
 ---
 
 ## Галерея скриншотов
