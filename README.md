@@ -69,7 +69,11 @@ permalink: /
 
 Система работает на стандартном LAMP/WAMP сервере.
 
-<center> <h1>Купить код</h1> </center>
+# ДЕМО ВЕРСИЯ
+
+Хотите попробовать продукт перед покупкой? Закажите бесплатную демо-версию:
+
+<script type="text/javascript" src="//gama.mautic.net/form/generate.js?id=6"></script>
                           
 <devkadabra@gmail.com>
 ---
