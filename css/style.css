@@ -2071,7 +2071,10 @@ fieldset:disabled a.btn {
 .btn-success {
   color: #fff;
   background-color: #28a745;
-  border-color: #28a745; }
+  border-color: #28a745;
+  background-color: rgb(97,206,112);
+    border-color: #61ce70;
+}
   .btn-success:hover {
     color: #fff;
     background-color: #218838;
@@ -8182,7 +8185,7 @@ textarea.form-control {
 .heading-section.heading-section-white h2 {
   font-size: 40px;
   color: #fff;
-  font-weight: 300 !important; }
+  font-weight: 300; }
 
 .img,
 .blog-img,
@@ -8506,7 +8509,9 @@ textarea.form-control {
   .block-7 .heading-2 {
     font-size: 16px;
     font-weight: normal;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    line-height: 2rem
+  }
   .block-7 .price {
     margin: 0;
     padding: 0;
@@ -8943,4 +8948,14 @@ textarea.form-control {
 }
 .ftco-section .image.screen.fit {
   background-size: contain;
+}
+
+.section--splash .heading-section-white h2{
+    font-size: 70px;
+    line-height: 100%;
+}
+
+.section--splash .heading-section-white p{
+    font-size: 22px;
+    line-height: 150%;
 }
