@@ -62,34 +62,34 @@
 	loader();
 
 	var carousel = function() {
-		$('.home-slider').owlCarousel({
-	    loop:true,
-	    autoplay: true,
-	    margin:0,
-	    animateOut: 'fadeOut',
-	    animateIn: 'fadeIn',
-	    nav:true,
-	    dots: false,
-	    autoplayHoverPause: false,
-	    items: 1,
-	    navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
-	    responsive:{
-	      0:{
-	        items:1,
-	        nav:false,
-	        dots: true
-	      },
-	      600:{
-	        items:1,
-	        nav:false,
-	        dots: true
-	      },
-	      1000:{
-	        items:1,
-	        nav:true
-	      }
-	    }
-	   });
+		// $('.home-slider').owlCarousel({
+	   //  loop:true,
+	   //  autoplay: true,
+	   //  margin:0,
+	   //  animateOut: 'fadeOut',
+	   //  animateIn: 'fadeIn',
+	   //  nav:true,
+	   //  dots: false,
+	   //  autoplayHoverPause: false,
+	   //  items: 1,
+	   //  navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
+	   //  responsive:{
+	   //    0:{
+	   //      items:1,
+	   //      nav:false,
+	   //      dots: true
+	   //    },
+	   //    600:{
+	   //      items:1,
+	   //      nav:false,
+	   //      dots: true
+	   //    },
+	   //    1000:{
+	   //      items:1,
+	   //      nav:true
+	   //    }
+	   //  }
+	   // });
 
         $('.carousel-block').owlCarousel({
             center: true,
